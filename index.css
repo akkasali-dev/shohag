@@ -1,0 +1,9 @@
+.name{
+    color: red;
+    font-size: 120px;
+    padding: 10px;
+    background-color: rgb(99, 57, 57);
+    border: 2px green;
+    border-radius: 8px;
+    text-align: center;
+}
